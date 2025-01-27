@@ -20,9 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my webpage.  My name is Tommaso Maria Botta and I am a Postdoctoral Research Fellow in the Mathematics department at [Columbia University](https://www.math.columbia.edu).  My mentor is [Andrei Okounkov](https://www.math.columbia.edu/~okounkov/). Previously, I was a PhD student in mathematics at [ETH Zürich](https://math.ethz.ch) and my advisor was [Giovanni Felder](https://people.math.ethz.ch/~felder/).
 
-My research lies at the crossroads of representation theory, algebraic geometry and mathematical physics. 
-
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research lies at the crossroads of representation theory, algebraic geometry and mathematical physics.
